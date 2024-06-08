@@ -15,10 +15,13 @@
 // console.log(sum)
 
 
-
+//Reverse word
  let str="Winjit"
  let rev=str.split('').reverse().join('')
  console.log(rev)
+
+
+
 
 
 

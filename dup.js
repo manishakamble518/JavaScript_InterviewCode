@@ -36,7 +36,7 @@
 // console.log(a.includes(75))
 
 function isPrime(num){
-    if(num==0){
+    if(num<=1){
         return true
     }
     for(let i=2;i<num;i++){
